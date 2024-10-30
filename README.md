@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://coinmarketcap.com/api/documentation/v1/">
+  <a href="https://lbs.amap.com/api/webservice/guide/api/georegeo">
     <img src="examples/amap.svg" width="200" height="200" alt="go-amap-open">
   </a>
 </p>
